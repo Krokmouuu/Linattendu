@@ -182,12 +182,6 @@ Le site est entièrement responsive et optimisé pour :
 
 Projet privé - Tous droits réservés
 
-## 👤 Contact
-
-- **Email** : contact@linattendu-love-room.fr
-- **Téléphone** : +33 6 24 42 59 92
-- **Réseaux sociaux** : Voir le footer du site
-
 ---
 
 Fait avec ❤️ pour L'Inattendu
