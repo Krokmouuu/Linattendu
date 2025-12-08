@@ -28,7 +28,7 @@ const basePlan = {
 const supplements = [
   {
     name: "Petit-déjeuner",
-    price: "15€",
+    price: "20€",
     icon: Coffee,
     description: "Petit-déjeuner complet servi dans votre suite",
   },
